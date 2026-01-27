@@ -5,6 +5,3 @@
 [submodule "PSpower"]
 	path = PSpower
 	url = https://github.com/laubok/pspower
-[submodule "PStrata"]
-	path = PStrata
-	url = https://github.com/laubok/pstrata
